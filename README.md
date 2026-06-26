@@ -1,5 +1,15 @@
 # 🤖 Gemini AI Clone
 
+<p align="center">
+
+![React](https://img.shields.io/badge/React-19-blue?logo=react)
+![Vite](https://img.shields.io/badge/Vite-7-purple?logo=vite)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript)
+![Google Gemini](https://img.shields.io/badge/Google-Gemini-blue?logo=google)
+![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?logo=vercel)
+
+</p>
+
 A modern **Gemini AI Clone** built using **React, Vite, and the Google Gemini API**. This project replicates the core chat experience of Gemini while adding custom features like Dark Mode and animated sidebar interactions.
 
 ## 🌐 Live Demo
@@ -43,8 +53,6 @@ A modern **Gemini AI Clone** built using **React, Vite, and the Google Gemini AP
 
 > *<img width="1920" height="1080" alt="Screenshot (405)" src="https://github.com/user-attachments/assets/4990a8b2-c918-4869-a868-218efc4a4ee7" />
 *
-> *<img width="1920" height="1080" alt="Screenshot (407)" src="https://github.com/user-attachments/assets/90540353-dc00-4723-ba1d-c046b0088667" />
-*
 
 ---
 
@@ -69,8 +77,9 @@ Building this project helped me gain hands-on experience with:
 
 After completing the tutorial, I extended the project by implementing:
 
-- 🌙 Dark Mode 
+- 🌙 Dark Mode (On the Settings option)
 -  Sidebar Collapse & Expand Animation
+-  Card Animations
 
 These features were independently implemented to improve both functionality and user experience.
 
@@ -120,5 +129,13 @@ This project was built as a hands-on learning experience using the excellent Rea
 https://youtu.be/0yboGn8errU?si=XXUgz3CD5I_kPDZd
 
 A big thank you to *GreatStack* for creating such an informative tutorial that helped me strengthen my React development skills.
+
+---
+<img width="1920" height="1080" alt="Screenshot (407)" src="https://github.com/user-attachments/assets/8c1659a7-bf33-4744-9fa1-82f97748bf84" />
+<img width="1920" height="1080" alt="Screenshot (405)" src="https://github.com/user-attachments/assets/92052227-f7a9-4447-9edd-0c032b4d1861" />
+<img width="1920" height="1080" alt="Screenshot (410)" src="https://github.com/user-attachments/assets/9c86c576-5d10-4a39-bc37-faa97c6444df" />
+<img width="1920" height="1080" alt="Screenshot (411)" src="https://github.com/user-attachments/assets/d5f8c010-8484-43a2-8eb8-2305495fc37b" />
+
+
 
 ⭐ If you like this project, consider giving it a star!
