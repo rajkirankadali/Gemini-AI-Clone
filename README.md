@@ -1,4 +1,4 @@
-# 🤖 Gemini AI Clone
+# The Gemini AI Clone
 
 <p align="center">
 
@@ -12,11 +12,11 @@
 
 A modern **Gemini AI Clone** built using **React, Vite, and the Google Gemini API**. This project replicates the core chat experience of Gemini while adding custom features like Dark Mode and animated sidebar interactions.
 
-## 🌐 Live Demo
+##  Live Demo
 
 🔗 https://gemini-ai-clone-delta.vercel.app
 
-## 📂 GitHub Repository
+##  GitHub Repository
 
 🔗 https://github.com/rajkirankadali/Gemini-AI-Clone
 
@@ -51,8 +51,8 @@ A modern **Gemini AI Clone** built using **React, Vite, and the Google Gemini AP
 
 ## 📸 Preview
 
-> *<img width="1920" height="1080" alt="Screenshot (405)" src="https://github.com/user-attachments/assets/4990a8b2-c918-4869-a868-218efc4a4ee7" />
-*
+> <img width="1920" height="1080" alt="Screenshot (405)" src="https://github.com/user-attachments/assets/4990a8b2-c918-4869-a868-218efc4a4ee7" />
+
 
 ---
 
